@@ -1,0 +1,16 @@
+<!--
+  ~ Copyright (c) 2022.  Vela technologies LLC. All rights reserved.
+  ~
+  ~  Vela technologies LLC holds the copyright for all the files found in this repository.
+  ~
+  ~  @author Dayanand
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient android:startColor="@color/whilte"
+        android:endColor="@color/whilte"
+        android:angle="270" />
+    <corners android:radius="@dimen/dimen_10dp" />
+
+</shape>

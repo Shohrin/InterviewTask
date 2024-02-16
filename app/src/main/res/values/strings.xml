@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InterviewTask</string>
+    <string name="user_login">User Login</string>
+    <string name="user_name_error">UserName must be 10 characters</string>
+    <string name="password_error">Invalid Password.</string>
+    <string name="password_hint">Password must be 7 charecters with one uppar case alphabet and one special character and numeric</string>
+    <string name="username_hint">Username must contain 10 charecters</string>
+
+    <string name="sort_by_name">Sort By name</string>
+    <string name="sort_by_age">Sort By age</string>
+    <string name="sort_by_city">Sort By city</string>
+    <string name="user_shared_preferences">UserDetails</string>
+    <string name="is_already_login">isAlreadyLogin</string>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+
+    </style>
+
+
+</resources>
